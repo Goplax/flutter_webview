@@ -1,6 +1,7 @@
 # flutter_webview
 
-A new Flutter project.
+This is the tutorial about [How to use WebView in Flutter](https://instacodeblog.com/).
+
 
 ## Getting Started
 
