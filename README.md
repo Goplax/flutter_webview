@@ -1,17 +1,5 @@
-# flutter_webview
+# HOW TO USE WEBVIEW IN FLUTTER – TUTORIAL
 
-This is the tutorial about [How to use WebView in Flutter](https://instacodeblog.com/).
+This repositry is the output of the tutorial [How to use WebView in Flutter](https://instacodeblog.com/how-to-use-webview-in-flutter/).
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you want to read and learn how to develop Flutter App using flutter_webview plugin. Please the tutorial in above link.
